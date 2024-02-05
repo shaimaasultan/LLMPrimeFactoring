@@ -1,4 +1,3 @@
-# LLMPrimeFactoring
 
 # LLM Prime Factoring algorithm without any division operations 
 
