@@ -21,7 +21,7 @@ Code Folder includes python code
 # This Algorhtim is based on divide prime numbers into two branches [Branch 7] and [Branch 11]
 <img src="ScreenShots/Screenshot 2024-02-05 024139.png" />
 
-# This algorithm based on batche execuions and start and end range.
+# This algorithm based on batch execuions and start and end range.
 <img src="ScreenShots/Screenshot 2024-02-05 025145.png" />
 <img src="ScreenShots/Screenshot 2024-02-05 025227.png" />
 <img src="ScreenShots/Screenshot 2024-02-05 025255.png" />
